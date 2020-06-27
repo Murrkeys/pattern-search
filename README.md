@@ -1,2 +1,2 @@
 # pattern_search
-Master's Project
+UNSW HDS Term 1 Project 
